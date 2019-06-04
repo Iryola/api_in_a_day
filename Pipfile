@@ -11,6 +11,8 @@ sqlalchemy = "*"
 flask-cors = "*"
 flask-marshmallow = "*"
 flask-sqlalchemy = "*"
+flask-heroku = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.7"
